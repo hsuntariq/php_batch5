@@ -48,9 +48,7 @@ Show Data</title>
                             <td> {$row['class']} </td>
                             
                             <td>
-                                <a href='./update-form.php?id={$row['id']}' class='btn btn-info'>
-                                    Update
-                                </a>
+                                <a href='./update-form.php?id={$row['id']}' class='btn btn-info'>Update</a>
                             </td>
 
                             <td>
